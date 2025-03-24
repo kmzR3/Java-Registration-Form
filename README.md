@@ -14,3 +14,9 @@
 ### 📝 Running Application:
 ![Application UI](screenshots/Screenshot_2025-03-24-14-08-14_4248.png)
 ![Application UI](screenshots/Screenshot_2025-03-24-14-08-37_31864.png)
+
+### Instructions to run the program:
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Compile the program using the command `javac RegistrationForm.java`.
+4. Run the application using the command `java RegistrationForm`.
